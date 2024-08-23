@@ -3,26 +3,26 @@
 //Instagram: X-TECH-CORP 
 //Telegram: t.me/X-TECH-CORP
 //GitHub: @X-TECH-CORP
-//WhatsApp: +2250500107362
+//WhatsApp: +242066328691
 //want more free bot scripts? subscribe to my youtube channel: https://youtube.com/@X-TECH-CORP
 
 const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "2250500107362","24106600543"
+global.ownernomer = "242066328691"
 global.ownername = "🔞𝐗-𝐓𝐄𝐂𝐇🔰"
 global.ytname = "YT: X-TECH-CORP "
 global.socialm = "GitHub: X-TECH-CORP"
 global.location = "United states, New York, Times Square"
 
-global.ownernumber = '2250500107362'  //creator number
+global.ownernumber = '242066328691'  //creator number
 global.ownername = '🔞𝐗-𝐓𝐄𝐂𝐇🔰' //owner name
 global.botname = '🔞𝐗-𝐓𝐄𝐂𝐇🔰' //name of the bot
 
 //sticker details
 global.packname = '🔞𝐗-𝐓𝐄𝐂𝐇🔰'
-global.author = '🔞𝐗-𝐓𝐄𝐂𝐇🔰\n\nContact: +2250500107362'
+global.author = '🔞𝐗-𝐓𝐄𝐂𝐇🔰\n\nContact: +242066328691'
 
 //console view/theme
 global.themeemoji = '🔞'
